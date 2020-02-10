@@ -15,4 +15,4 @@ Simulando as funções do Dropbox a ideia do projeto era criar uma aplicação e
 
 
 
-Feito por Willian Gomes Vitor durante as aulas da semana OmniStack
+<center>Feito por Willian Gomes Vitor durante as aulas da semana OmniStack</center>
