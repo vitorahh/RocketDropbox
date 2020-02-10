@@ -13,6 +13,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Simulando as funções do Dropbox a ideia do projeto era criar uma aplicação em REACT para se conectar com uma API para fazer criações de BOXES e adicionar arquivos nos mesmos fazendo uma comunicação em tempo real com Socket.io
 
-
+<br/>
 
 <p align="center">Feito por Willian Gomes Vitor durante as aulas da semana OmniStack</center>
