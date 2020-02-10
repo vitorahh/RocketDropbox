@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-Simulando as funções do Dropbox a ideia do projeto era criar uma aplicação em REACT para se conectar com uma API para fazer criações de BOXES e adicionar arquivos nos mesmos fazendo uma comunicação em tempo real com Socket.io
+Simulando as funções do Dropbox a ideia do projeto era criar uma aplicação em REACT e REACT NATIVE para se conectar com uma API para fazer criações de BOXES e adicionar arquivos nos mesmos fazendo uma comunicação em tempo real com Socket.io
 
 <br/>
 
